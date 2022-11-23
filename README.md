@@ -1,5 +1,5 @@
 # TERCEIRA-TRIMESTRAL
-Nesse ultimo trabalho, fizemos um aplicativo que retorna as informações de um usuário contidas na API que utilizamos(https://jsonplaceholder.typicode.com/). 
+Nesse ultimo trabalho fizemos um aplicativo que retorna as informações de um usuário contidas na API que utilizamos(https://jsonplaceholder.typicode.com/). 
 
 ## 🚀 O que é uma API
 
